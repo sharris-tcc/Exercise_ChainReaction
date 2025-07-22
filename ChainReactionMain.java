@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-/**Frank Harris**/
+/**Stephen Harris**/
 
 public class ChainReactionMain {
 
